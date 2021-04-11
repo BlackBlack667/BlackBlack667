@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BlackBlack667
+- 👀 I’m interested in blockchains, games, haskell
+- 🌱 I’m currently learning Haskell and Plutus
